@@ -18,7 +18,7 @@ Vous voulez vendre vos produits en ligne ? Notre service de création de boutiqu
 Si vous aimez notre travail et souhaitez nous soutenir financièrement, vous pouvez faire un don via PayPal en utilisant le lien suivant : [Faire un Don](https://paypal.me/findsy). Chaque contribution compte et nous vous sommes reconnaissants pour votre générosité !
 
 ## Nous Contacter
-Si vous avez des questions, des préoccupations ou simplement envie de discuter, n'hésitez pas à nous contacter. Vous pouvez nous joindre par e-mail à (non disponible) ou visitez notre site web (non disponible) pour plus d'informations.
+Si vous avez des questions, des préoccupations ou simplement envie de discuter, n'hésitez pas à nous contacter. Vous pouvez nous joindre par e-mail à (non disponible) ou visitez notre site web ([Findsy](https://findsy.fr)) pour plus d'informations.
 
 Nous sommes impatients de collaborer avec vous !
 
